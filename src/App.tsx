@@ -66,6 +66,7 @@ function App() {
     margin: "0 auto",
     alignItems: "center"
   }}>
+    <div>Created By Deepax</div>
     <div style={{ fontSize: "2rem", textAlign: "center" }}>
       {isWinner && "Winner! - Refresh to try again"}
       {isLoser && "Nice Try "}
